@@ -10,6 +10,7 @@ pageextension 74120 "BingMaps Cust Card" extends "Customer Card"
                 SubPageLink = "No." = FIELD("No.");
                 Caption = 'Customer Map';
                 Visible = ShowFactBox;
+                Superproperty = "kurt";
             }
         }
     }
